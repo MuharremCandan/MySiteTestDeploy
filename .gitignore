@@ -1,0 +1,27 @@
+# Dependencies
+/node_modules
+
+# Production build
+/build
+/dist
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea
+.vscode
+*.iml
+*.iws
+*.ipr
+*.log
+*.lock
+
+# macOS
+.DS_Store
+
+# npm
+npm-debug.log*
